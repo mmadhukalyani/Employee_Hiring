@@ -1,0 +1,11 @@
+com\hiringsystem\entity\ApplicationStatus.class
+com\hiringsystem\repository\UserRepository.class
+com\hiringsystem\controller\ApplicationController.class
+com\hiringsystem\entity\User.class
+com\hiringsystem\repository\ApplicationRepository.class
+com\hiringsystem\entity\UserStatus.class
+com\hiringsystem\controller\LoginRequest.class
+com\hiringsystem\entity\Application.class
+com\hiringsystem\entity\UserRole.class
+com\hiringsystem\controller\AuthController.class
+com\hiringsystem\EmployeeHiringApplication.class
